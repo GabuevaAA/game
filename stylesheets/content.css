@@ -1,0 +1,240 @@
+@media all and (min-width: 1024px) {
+  body {
+    background: white;
+    font-family: "Neucha";
+  }
+  body img, body p,  body div {
+  position: absolute;
+  }
+  .none {
+  display: none;
+  }
+.headd {
+  width: 32vw;
+  top: 1vw;
+  left: 34vw;
+}
+.sunn {
+  width: 22vw;
+  top: 0vw;
+  left: 0vw;
+}
+.logo p {
+  color: black;
+  font-size: 4vw;
+  top: -57vw;
+  right: -97vw;
+}
+.logo p + p {
+  color: black;
+  font-size: 4vw;
+  top: -53vw;
+  right: -98vw;
+}
+.inst1 {
+  width: 57vw;
+  top: 15vw;
+  left: 21vw;
+}
+.alert {
+  width: 10vw;
+  top: 25vw;
+  left: 82vw;
+}
+.headd {
+  width: 32vw;
+  top: 1vw;
+  left: 34vw;
+}
+.sunn {
+  width: 22vw;
+  top: 0vw;
+  left: 0vw;
+}
+.inst2 {
+  width: 57vw;
+  top: 15vw;
+  left: 21vw;
+}
+.alert1 {
+  width: 10vw;
+  top: 26vw;
+  left: 8vw;
+  transform: rotate(180deg);
+}
+.txt p {
+  color: black;
+  font-size: 7vw;
+  top: -32vw;
+  right: -88vw;
+  font-family: "Neucha";
+}
+.vamp {
+  width: 37.3vw;
+  top: 6vw;
+  left: 33vw;
+}
+.hair {
+  width: 30vw;
+  top: 4vw;
+  left: 36.8vw;
+}
+.vamp2 {
+  width: 36vw;
+  top: 6vw;
+  left: 33vw;
+}
+.eyebrows {
+  width: 27vw;
+  top: 18vw;
+  left: 37.8vw;
+}
+
+.vamp3 {
+  width: 36vw;
+  top: 6vw;
+  left: 33vw;
+}
+.eyes {
+  width: 23vw;
+  top: 22vw;
+  left: 39.5vw;
+}
+.vamp4 {
+  width: 36vw;
+  top: 3vw;
+  left: 33vw;
+}
+.ears {
+  width: 38vw;
+  top: 22vw;
+  left: 32.3vw;
+  }
+  .vamp5 {
+    width: 36vw;
+    top: 4.3vw;
+    left: 33vw;
+  }
+  .fangs {
+    width: 15vw;
+    top: 34.3vw;
+    left: 43.6vw;
+    }
+    .vamp6 {
+      width: 36vw;
+      top: 4.2vw;
+      left: 33vw;
+    }
+    .tongue {
+      width: 7vw;
+      top: 38.2vw;
+      left: 47.9vw;
+      }
+      .vamp7 {
+        width: 36vw;
+        top: 4.2vw;
+        left: 33vw;
+      }
+      .vamp8 {
+        width: 36vw;
+        top: 5.5vw;
+        left: 33vw;
+      }
+      .vin {
+        width: 57vw;
+        top: 15vw;
+        left: 21vw;
+      }
+    .bg1 {
+      background-color: #FF006B;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+
+    }
+    .b2 {
+      background-color: #FF0C72;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b3 {
+      background-color: #FF1477;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b4 {
+      background-color: #FF237F;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b5 {
+      background-color: #FF398C;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b6 {
+      background-color: #FF61A3;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b7 {
+      background-color: #FF76B0;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+    .b8 {
+      background-color: #FF8EBE;
+      background-size: cover;
+      height: 58.7vw;
+      width: 100.5vw;
+      position: relative;
+    }
+.hhead {
+  width: 29vw;
+  height: 59vw;
+  top:0vw;
+  left:0vw;
+  background-image: url('images/fire.svg');
+}
+.fire {
+  animation: fire 1s steps(1) infinite;
+}
+.ffire{
+  width: 29vw;
+  height: 59vw;
+  top:-0.3vw;
+  left:36vw;
+}
+.sculll {
+  width: 27vw;
+  top:3.7vw;
+  left:38vw;
+}
+.scull {
+  width: 27vw;
+  top:-0.5vw;
+  left:0vw;
+}
+.bones {
+  width: 11.9vw;
+  top:40.7vw;
+  left:46vw;
+}
+.lose {
+  width: 57vw;
+  top: 15vw;
+  left: 21vw;
+}

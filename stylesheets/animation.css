@@ -1,0 +1,7 @@
+@keyframes fire {
+  0% {background-position: 0px 0;}
+  20% {background-position: 496px 0;}
+  40% {background-position: 992px 0;}
+  80% {background-position: 1488px 0;}
+  100% {background-position: 1984px 0;}
+}
